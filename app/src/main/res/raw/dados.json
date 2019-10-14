@@ -1,0 +1,24 @@
+{
+	"grade-aulas": {
+		"nome": "Materias da Faculdade",
+		"meio-periodo": true,
+		"materias": [
+			{
+				"nome": "Estrutura de Dados",
+				"nota": 9
+			},
+			{
+				"nome": "Matematica Discreta",
+				"nota": 8
+			},
+			{
+				"nome": "Engenharia de requisitos",
+				"nota": 7
+			},
+			{
+				"nome": "Kotlin",
+				"nota": 6
+			}
+		]
+	}
+}
